@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://otsha.github.io/phycomp-dir/'
 languageCode = 'en-us'
-title = 'otsha | phycomp'
+title = 'otsha | physical computing'
 theme = "hugo-book"
