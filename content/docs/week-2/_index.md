@@ -9,7 +9,23 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Catbell (Week 2 Alt+Ctrl Assignment)
+# Alt+Ctrl (Week 2)
+
+Deliverables for the 2nd week's assignments.
+
+## Assignment 1: Existing Alt+Ctrl Interface: VinylOS
+
+VinylOS is a combination of a visual interface and a game controller. Content (likely a game) is projected onto the vinyl. Interacting with the vinyl (rotating/scratching) controls the content.
+
+I was specifically looking for music-themed interactions / games because novel ways of making music are always fascinating to me - even if I don't end up using them in my own work. But what initially caught my attention in this case was the name of the interface - how do you build an "operating system" around vinyls? Looking at the demo video, there are quite a few games / digital toys that can be built around the system!
+
+- [Demo on YouTube](https://www.youtube.com/watch?v=DP7HzmlX1kE)
+- [Webpage](https://vinylos.io/)
+- [Shakethatbutton showcase](https://shakethatbutton.com/vinylos/)
+
+---
+
+## Assignment 2: Alt+Ctrl Concept: Catbell
 
 > A game where you guide a cat down from a tree, branch by branch, using sound.
 
