@@ -15,6 +15,8 @@ A generative music installation that adapts its sound based on the presence (and
 
 ![Sketch of the Idea](images/final-project-sketch.jpg)
 
+[Audio proof of concept](https://on.soundcloud.com/TsH36)
+
 The presence of people in the space is recognized using the IR matrix sensor. Pixels / sectors in the matrix represent certain parameters of the generative synth. When the presence of a person is detected in a pixel / sector, the parameter changes (somehow, still up in the air!).
 
 I think having the presence of people be what controls the instrument is interesting because playing an instrument is often seen as something you *actively* do. I hope that it would invite viewers to stay in the space for longer and create a social atmosphere where people collaboratively explore the different sounds the instrument can produce.
