@@ -1,3 +1,7 @@
-# Index
+Assignments & final project documentation for the Physical Computing course at Aalto University.
 
-Course assignments & progress on final project
+## Final Project: Who's playing?
+
+[**Project report**](/phycomp-dir/docs/final-project)
+
+{{< youtube u2juiLE1fe8>}}
