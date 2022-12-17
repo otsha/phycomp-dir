@@ -42,7 +42,7 @@ One of the goals of the installation was to make the viewers *passively* play an
 
 ### Technicalities
 
-You can refer to the [Arduino sketch's GitHub repository]() if you would like to take a look at the implementation in code. If you are interested in using the AMG8833 sensor in your work, you can use the code on the [week 4 page](/phycomp-dir/docs/week-4) (with some modifications) to visualize the sensor output in Processing.
+You can refer to the [Arduino sketch's GitHub repository](https://github.com/otsha/phycomp-final-project) if you would like to take a look at the implementation in code. If you are interested in using the AMG8833 sensor in your work, you can use the code on the [week 4 page](/phycomp-dir/docs/week-4) (with some modifications) to visualize the sensor output in Processing.
 
 By my testing, the Grideye sensor reliably detects temperatures within a 2-meter distance. In addition to distance, clothing also affects the detection of surface temperatures. Finally, the sensor is very low-resolution, only 8 x 8 pixels in area. Despite its drawbacks, it can be used effectively to detect the *presence* of people; exactly what I needed for this project. I defined zones and individual pixels within the sensor's area that control various parameters of the different instruments.
 
